@@ -10,7 +10,8 @@ const error = {
 }
 
 router.get('/', (req, res) => {
-    res.json(pokemonsJson);
+    if (!pokemonsJson) return res.status(404).json(error)
+    else res.send(pokemonsJson)
 });
 
 router.get('/name/:name', (req, res) => {
