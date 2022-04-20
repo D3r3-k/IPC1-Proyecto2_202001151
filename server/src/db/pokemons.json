@@ -1,0 +1,92 @@
+[
+    {
+        "id": "471",
+        "name": "Glaceon",
+        "type": "Ice",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/471.png"
+    },
+    {
+        "id": "473",
+        "name": "Mamoswine",
+        "type": "Ice",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/473.png"
+    },
+    {
+        "id": "378",
+        "name": "Regice",
+        "type": "Ice",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/378.png"
+    },
+    {
+        "id": "091",
+        "name": "Cloyster",
+        "type": "Ice",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png"
+    },
+    {
+        "id": "364",
+        "name": "Sealeo",
+        "type": "Ice",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/364.png"
+    },
+    {
+        "id": "249",
+        "name": "Lugia",
+        "type": "Psychic",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/249.png"
+    },
+    {
+        "id": "360",
+        "name": "Wynaut",
+        "type": "Psychic",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/360.png"
+    },
+    {
+        "id": "064",
+        "name": "Kadabra",
+        "type": "Psychic",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png"
+    },
+    {
+        "id": "124",
+        "name": "Jynx",
+        "type": "Psychic",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png"
+    },
+    {
+        "id": "376",
+        "name": "Metagross",
+        "type": "Psychic",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/376.png"
+    },
+    {
+        "id": "094",
+        "name": "Gengar",
+        "type": "Ghost",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png"
+    },
+    {
+        "id": "356",
+        "name": "Dusclops",
+        "type": "Ghost",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/356.png"
+    },
+    {
+        "id": "302",
+        "name": "Sableye",
+        "type": "Ghost",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/302.png"
+    },
+    {
+        "id": "353",
+        "name": "Shuppet",
+        "type": "Ghost",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/353.png"
+    },
+    {
+        "id": "429",
+        "name": "Mismagius",
+        "type": "Ghost",
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/429.png"
+    }
+]

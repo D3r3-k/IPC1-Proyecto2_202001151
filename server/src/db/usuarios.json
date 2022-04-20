@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Administrador",
+        "user": "admin",
+        "password": "123",
+        "gender": "hombre",
+        "lvl": 99
+    },
+    {
+        "id": 2,
+        "user": "d3r3k",
+        "name": "Derek",
+        "password": "123",
+        "gender": "hombre",
+        "lvl": 75
+    },
+    {
+        "id": 3,
+        "user": "user",
+        "name": "Usuario",
+        "password": "123",
+        "gender": "mujer",
+        "lvl": 35
+    }
+]
