@@ -18,8 +18,14 @@ class PokeData extends Component {
                     <img src={this.props.data.img} alt="pokeimg" />
                     <hr />
                     <div className='dataElements'>
-                        <span className='dataType'>{this.props.data.type}</span>
-                        <span className='dataDebil'>{this.props.data.debility}</span>
+                        <div>
+                            <span>Tipo:</span>
+                            <span className='dataType'>{this.props.data.type}</span>
+                        </div>
+                        <div>
+                            <span>Debilidad:</span>
+                            <span className='dataDebil'>{this.props.data.debility}</span>
+                        </div>
                     </div>
                 </div>
 
