@@ -11,7 +11,7 @@ const error = {
 
 router.get('/', (req, res) => {
     if (!pokemonsJson) return res.status(404).json(error)
-    else res.send(pokemonsJson)
+    else res.json(pokemonsJson)
 });
 
 router.get('/name/:name', (req, res) => {
@@ -37,5 +37,8 @@ router.get('/type/:type', (req, res) => {
     res.send(pokeTyps)
 });
 
+router.get('*', (req, res) => {
+    res.status(404).json(error)
+});
 
 module.exports = router;

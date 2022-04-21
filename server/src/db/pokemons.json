@@ -3,90 +3,225 @@
         "id": "471",
         "name": "Glaceon",
         "type": "Ice",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/471.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/471.png",
+        "debility": "Fuego",
+        "lvl": "25",
+        "xp": "72",
+        "attacks": {
+            "atk1": "Viento Hielo",
+            "atk2": "Colmillo Hielo",
+            "atk3": "Canto Helado",
+            "atk4": "Barrera"
+        }
     },
     {
         "id": "473",
         "name": "Mamoswine",
         "type": "Ice",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/473.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/473.png",
+        "debility": "Acero",
+        "lvl": "37",
+        "xp": "24",
+        "attacks": {
+            "atk1": "Nieve Polvo",
+            "atk2": "Alud",
+            "atk3": "Terratemblor",
+            "atk4": "Frustración"
+        }
     },
     {
         "id": "378",
         "name": "Regice",
         "type": "Ice",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/378.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/378.png",
+        "debility": "Fuego",
+        "lvl": "44",
+        "xp": "88",
+        "attacks": {
+            "atk1": "Viento Hielo",
+            "atk2": "Exploción",
+            "atk3": "Fuerza Bruta",
+            "atk4": "Amnesia"
+        }
     },
     {
         "id": "091",
         "name": "Cloyster",
         "type": "Ice",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/091.png",
+        "debility": "Planta",
+        "lvl": "23",
+        "xp": "50",
+        "attacks": {
+            "atk1": "Hidrobomba",
+            "atk2": "Púas Tóxicas",
+            "atk3": "Refugio",
+            "atk4": "Rayo Aurora"
+        }
     },
     {
         "id": "364",
         "name": "Sealeo",
         "type": "Ice",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/364.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/364.png",
+        "debility": "Planta",
+        "lvl": "37",
+        "xp": "12",
+        "attacks": {
+            "atk1": "Rayo Aurora",
+            "atk2": "Granizo",
+            "atk3": "Descanso",
+            "atk4": "Frío Polar"
+        }
     },
     {
         "id": "249",
         "name": "Lugia",
         "type": "Psychic",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/249.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/249.png",
+        "debility": "Fantasma",
+        "lvl": "50",
+        "xp": "94",
+        "attacks": {
+            "atk1": "Carga Dragón",
+            "atk2": "Danza Lluvia",
+            "atk3": "Aerochorro",
+            "atk4": "Granizo"
+        }
     },
     {
         "id": "360",
         "name": "Wynaut",
         "type": "Psychic",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/360.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/360.png",
+        "debility": "Fantasma",
+        "lvl": "8",
+        "xp": "66",
+        "attacks": {
+            "atk1": "Encanto",
+            "atk2": "Otra Vez",
+            "atk3": "Salpicadura",
+            "atk4": "Manto Espejo"
+        }
     },
     {
         "id": "064",
         "name": "Kadabra",
         "type": "Psychic",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png",
+        "debility": "Fantasma",
+        "lvl": "52",
+        "xp": "3",
+        "attacks": {
+            "atk1": "Kinético",
+            "atk2": "Confusión",
+            "atk3": "Psicorrayo",
+            "atk4": "Telequinesis"
+        }
     },
     {
         "id": "124",
         "name": "Jynx",
         "type": "Psychic",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/124.png",
+        "debility": "Acero",
+        "lvl": "37",
+        "xp": "23",
+        "attacks": {
+            "atk1": "Beso Drenaje",
+            "atk2": "Llanto Falso",
+            "atk3": "Alud",
+            "atk4": "Come Sueños"
+        }
     },
     {
         "id": "376",
         "name": "Metagross",
         "type": "Psychic",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/376.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/376.png",
+        "debility": "Fantasma",
+        "lvl": "48",
+        "xp": "79",
+        "attacks": {
+            "atk1": "Cabezazo Zen",
+            "atk2": "Agilidad",
+            "atk3": "Psíquico",
+            "atk4": "Def. Férrea"
+        }
     },
     {
         "id": "094",
         "name": "Gengar",
         "type": "Ghost",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+        "debility": "Fantasma",
+        "lvl": "38",
+        "xp": "99",
+        "attacks": {
+            "atk1": "Hipnosis",
+            "atk2": "Maldición",
+            "atk3": "Puño Sombra",
+            "atk4": "Bola Sombra"
+        }
     },
     {
         "id": "356",
         "name": "Dusclops",
         "type": "Ghost",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/356.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/356.png",
+        "debility": "Fantasma",
+        "lvl": "39",
+        "xp": "42",
+        "attacks": {
+            "atk1": "Puño Fuego",
+            "atk2": "Malicioso",
+            "atk3": "Gravedad",
+            "atk4": "Puño Sombra"
+        }
     },
     {
         "id": "302",
         "name": "Sableye",
         "type": "Ghost",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/302.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/302.png",
+        "debility": "Hada",
+        "lvl": "42",
+        "xp": "23",
+        "attacks": {
+            "atk1": "Tinieblas",
+            "atk2": "Impresionar",
+            "atk3": "Sombra Vil",
+            "atk4": "Garra Umbría"
+        }
     },
     {
         "id": "353",
         "name": "Shuppet",
         "type": "Ghost",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/353.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/353.png",
+        "debility": "Fantasma",
+        "lvl": "35",
+        "xp": "58",
+        "attacks": {
+            "atk1": "Sombra Vil",
+            "atk2": "Rencor",
+            "atk3": "Bola Sombra",
+            "atk4": "Rabia"
+        }
     },
     {
         "id": "429",
         "name": "Mismagius",
         "type": "Ghost",
-        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/429.png"
+        "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/429.png",
+        "debility": "Fantasma",
+        "lvl": "47",
+        "xp": "68",
+        "attacks": {
+            "atk1": "Llama Embrujada",
+            "atk2": "Golpe Fantasma",
+            "atk3": "Hoja Mágica",
+            "atk4": "Impresionar"
+        }
     }
 ]
