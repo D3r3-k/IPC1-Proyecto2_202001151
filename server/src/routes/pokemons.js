@@ -17,13 +17,13 @@ router.get('/', (req, res) => {
 router.get('/name/:name', (req, res) => {
     const pokemon = pokemonsJson.find(c => c.name.toLowerCase() === req.params.name.toLowerCase());
     if (!pokemon) return res.status(404).json(error)
-    else res.send(pokemon)
+    else res.json(pokemon)
 });
 
 router.get('/id/:id', (req, res) => {
     const pokemon = pokemonsJson.find(c => c.id === req.params.id);
     if (!pokemon) return res.status(404).json(error)
-    else res.send(pokemon)
+    else res.json(pokemon)
 });
 
 router.get('/type/:type', (req, res) => {
@@ -34,7 +34,7 @@ router.get('/type/:type', (req, res) => {
             pokeTyps[i++] = key
         }
     })
-    res.send(pokeTyps)
+    res.json(pokeTyps)
 });
 
 router.get('*', (req, res) => {
