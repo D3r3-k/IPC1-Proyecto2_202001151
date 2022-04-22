@@ -56,6 +56,8 @@ class Dashboard extends Component {
                 .then(res => {
                     const pokemon = res.data;
                     this.setState({ pokemons: pokemon })
+                }).catch(error => {
+                    console.log(error);
                 })
         }
     }

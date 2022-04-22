@@ -25,7 +25,7 @@ class PokeCard extends Component {
           <span>{this.props.data.name}</span>
         </div>
         <div className='pokeImg'>
-          <img className={this.props.data.type} src={this.props.data.img} alt='PokeImg' />
+          <img className={this.props.data.type + " hola"} src={this.props.data.img} alt='PokeImg' />
         </div>
         <div className='pokeElements'>
           <span className='pokeId'>#{this.props.data.id}</span>
