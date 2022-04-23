@@ -98,7 +98,7 @@ class Dashboard extends Component {
         }
     }
 
-    cerrarSesion = () => {
+    cerrarSesion() {
         cookie.remove('id', { path: '/' })
         cookie.remove('name', { path: '/' })
         cookie.remove('user', { path: '/' })
@@ -237,7 +237,7 @@ class Dashboard extends Component {
                         <nav>
                             <ul className="nav_links">
                                 <li><a href="/dashboard">Inicio</a></li>
-                                <li><a href='/logout' onClick={() => this.cerrarSesion()} className='logout'>Cerrar Sesion</a></li>
+                                <li><a href='/logout' onClick={this.cerrarSesion} className='logout'>Cerrar Sesion</a></li>
                             </ul>
                         </nav>
                     </header>
