@@ -5,7 +5,7 @@
 # Frontend
 > ## Tecnologia
 > Se realizo el proyecto con **React.js** como tecnologia principal, creando estilos propios en CSS.
-
+[Hello, world!](http://example.com/){target="_blank"}
 > ## Servicios
 > Los servicios utilizados en el frontend fueron las API del servidor: 
 > + Usuarios
@@ -22,7 +22,7 @@
 > 
 > ![LoginImage](https://i.imgur.com/J3TTetH.png, "Imagen del login")
 >
-> Una vez iniciada sesion entrara al **[Dashboard](http://localhost:3000/dashboard)** donde se mostraran todos los pokemones y la información del usuario que se logeo, asi como un entrenador segun su genero.
+> Una vez iniciada sesion entrara al **[Dashboard](http://localhost:3000/dashboard){:target="_blank"}** donde se mostraran todos los pokemones y la información del usuario que se logeo, asi como un entrenador segun su genero.
 > ![Dashboard](https://i.imgur.com/o8Z1lXG.png, "Imagen Dashboard")
 > 
 > Al darle click a una tarjeta de pokemon, se mostrara la informacion de dicho pokemon en un cuadro flotante en la pagina.
