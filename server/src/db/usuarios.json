@@ -3,15 +3,15 @@
         "id": 1,
         "name": "Administrador",
         "user": "admin",
-        "password": "123",
+        "password": "admin",
         "gender": "hombre",
         "lvl": 999
     },
     {
         "id": 2,
-        "user": "d3r3k",
-        "name": "Derek",
-        "password": "123",
+        "user": "mast3r",
+        "name": "Master",
+        "password": "pass1607",
         "gender": "hombre",
         "lvl": 75
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "user": "user",
         "name": "Usuario",
-        "password": "123",
+        "password": "user",
         "gender": "mujer",
         "lvl": 35
     }
