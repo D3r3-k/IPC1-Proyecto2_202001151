@@ -23,7 +23,7 @@ Se realizo el proyecto con **React.js**
 ## Tecnologia
 Se realizo el proyecto con **React.js**
 v
-## Tecnologia
-Se realizo el proyecto con **React.js**
+` ## Tecnologia
+Se realizo el proyecto con **React.js** `
 
-![imglogin](https://i.imgur.com/MThqKmg.png "Imagen Login")
+![`imglogin`](https://i.imgur.com/MThqKmg.png "Imagen Login")
