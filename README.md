@@ -5,7 +5,6 @@
 # Frontend
 > ## Tecnologia
 > Se realizo el proyecto con **React.js** como tecnologia principal, creando estilos propios en CSS.
-[Hello, world!](http://example.com/){target="_blank"}
 > ## Servicios
 > Los servicios utilizados en el frontend fueron las API del servidor: 
 > + Usuarios
@@ -22,7 +21,7 @@
 > 
 > ![LoginImage](https://i.imgur.com/J3TTetH.png, "Imagen del login")
 >
-> Una vez iniciada sesion entrara al **[Dashboard](http://localhost:3000/dashboard){:target="_blank"}** donde se mostraran todos los pokemones y la información del usuario que se logeo, asi como un entrenador segun su genero.
+> Una vez iniciada sesion entrara al **[Dashboard](http://localhost:3000/dashboard)** donde se mostraran todos los pokemones y la información del usuario que se logeo, asi como un entrenador segun su genero.
 > ![Dashboard](https://i.imgur.com/o8Z1lXG.png, "Imagen Dashboard")
 > 
 > Al darle click a una tarjeta de pokemon, se mostrara la informacion de dicho pokemon en un cuadro flotante en la pagina.
@@ -41,3 +40,44 @@
 > ![Error 404](https://i.imgur.com/eQzUL8t.png, "Imagen Busqueda resultado error")
 
 ## Backend
+> ## Modulos Utilizados
+> Los modulos utilizados fueron los siguientes: 
+> ### Cliente:  
+> - [x] axios
+> - [x] react-router-dom
+> - [x] universal-cookie
+> ### Servidor:
+> - [x] cors
+> - [x] express
+> - [x] morgan
+> - [x] nodemon
+
+
+> ## Requerimientos del sistema
+> - [x] Procesador: Intel Celeron o equivalente
+> - [x] Sistema Operativo: Windows 7 o superior
+> - [x] RAM: 1GB 
+> - [x] Conexion a internet: Si
+
+> ## Puertos utilizados
+> ### Cliente
+> - [ ] port 3000
+> ### Servidor
+> - [ ] port 5000
+
+> ## EndPoints
+> ```
+> > /
+> Mostrara un mensaje para demostrar que el servidor esta activo
+> > /api/usuarios
+> Mostrara un arreglo en formato Json de todos los usuarios
+> > /api/pokemons
+> Mostrara un arreglo en formato Json de todos los pokemones
+> > /api/pokemons/name/:name
+> Mostrara un arreglo en formato Json del pokemon segun su nombre
+> > /api/pokemons/id/:id
+> Mostrara un arreglo en formato Json del pokemon segun su id
+> > /api/pokemons/type/:type
+> Mostrara un arreglo en formato Json de los pokemones segun el tipo
+> ```
+> <!-- This is commented out. -->
