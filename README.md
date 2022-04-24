@@ -7,4 +7,23 @@
 Se realizo el proyecto con **React.js**
 
 
-![imagen!](https://i.imgur.com/MThqKmg.png "Login")
+
+[Click aqui](#imgLogin)
+
+## Tecnologia
+Se realizo el proyecto con **React.js**
+## Tecnologia
+Se realizo el proyecto con **React.js**
+## Tecnologia
+Se realizo el proyecto con **React.js**
+## Tecnologia
+Se realizo el proyecto con **React.js**
+## Tecnologia
+Se realizo el proyecto con **React.js**
+## Tecnologia
+Se realizo el proyecto con **React.js**
+v
+## Tecnologia
+Se realizo el proyecto con **React.js**
+
+![imglogin](https://i.imgur.com/MThqKmg.png "Imagen Login")
