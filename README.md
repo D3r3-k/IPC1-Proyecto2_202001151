@@ -69,15 +69,25 @@
 > ```
 > > /
 > Mostrara un mensaje para demostrar que el servidor esta activo
+> ```
+> ```
 > > /api/usuarios
 > Mostrara un arreglo en formato Json de todos los usuarios
+> ```
+> ```
 > > /api/pokemons
 > Mostrara un arreglo en formato Json de todos los pokemones
+> ```
+> ```
 > > /api/pokemons/name/:name
 > Mostrara un arreglo en formato Json del pokemon segun su nombre
+> ```
+> ```
 > > /api/pokemons/id/:id
 > Mostrara un arreglo en formato Json del pokemon segun su id
+> ```
+> ```
 > > /api/pokemons/type/:type
 > Mostrara un arreglo en formato Json de los pokemones segun el tipo
 > ```
-> <!-- This is commented out. -->
+> 
