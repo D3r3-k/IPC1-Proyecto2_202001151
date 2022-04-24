@@ -43,12 +43,12 @@
 > ## Modulos Utilizados
 > Los modulos utilizados fueron los siguientes: 
 > 
-> | Cliente          | Servidor |
-> | :--------------- | -------: |
-> | Axios            |     Cors |
-> | React-router-dom |  Express |
-> | universal-cookie |   Morgan |
-> |                  |  Nodemon |
+> |     Cliente      | Servidor |
+> | :--------------: | :------: |
+> |      Axios       |   Cors   |
+> | React-router-dom | Express  |
+> | universal-cookie |  Morgan  |
+> |                  | Nodemon  |
 
 > ## Requerimientos del sistema
 > - [x] Procesador: Intel Celeron o equivalente
