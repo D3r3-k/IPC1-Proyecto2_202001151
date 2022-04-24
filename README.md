@@ -42,16 +42,13 @@
 ## Backend
 > ## Modulos Utilizados
 > Los modulos utilizados fueron los siguientes: 
-> ### Cliente:  
-> - [x] axios
-> - [x] react-router-dom
-> - [x] universal-cookie
-> ### Servidor:
-> - [x] cors
-> - [x] express
-> - [x] morgan
-> - [x] nodemon
-
+> 
+> | Cliente          | Servidor |
+> | :--------------- | -------: |
+> | Axios            |     Cors |
+> | React-router-dom |  Express |
+> | universal-cookie |   Morgan |
+> |                  |  Nodemon |
 
 > ## Requerimientos del sistema
 > - [x] Procesador: Intel Celeron o equivalente
